@@ -38,9 +38,7 @@ A full-stack e-commerce web platform for **Weirdough Cookies**, a Saudi-based br
 
 
 <pre> <code> /weirdough/ ├── client/ # Frontend website files ├── server/ # Backend PHP scripts ├── database/ # SQL schema and seed files ├── assets/ # Images and media files ├── docs/ │ └── Weirdough_SRS.pdf # Software Requirements Specification └── README.md # Project documentation </code> </pre>
-Or in plain triple backticks if preferred:
 
-<pre> ```bash /weirdough/ ├── client/ # Frontend website files ├── server/ # Backend PHP scripts ├── database/ # SQL schema and seed files ├── assets/ # Images and media files ├── docs/ │ └── Weirdough_SRS.pdf # Software Requirements Specification └── README.md # Project documentation ``` </pre>
 
 
 ---
